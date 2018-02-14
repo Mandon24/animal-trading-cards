@@ -1,0 +1,52 @@
+/* add your CSS here */
+body{
+
+}
+
+h2{
+  display: inline-block;
+}
+
+li{
+  list-style: none;
+}
+
+#img1{
+  width: 300px;
+  height: 200px;
+  border: #FFD700 8px outset;
+  box-shadow: 5px 5px 13px 0px rgba(0,0,0,0.75);
+}
+
+.imgBanner{
+  background-color: #FFD700;
+  font-style: italic;
+  width: 80%;
+  margin: auto;
+  box-shadow: 1px 2px 15px 0px rgba(0,0,0,0.75);
+  font-size: 12px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+
+.card{
+  width: 300px;
+  background-image: url("../images/pokeB.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0px 30px 0px 20px;
+  border: #FFD700 15px solid;
+  border-radius: 10px;
+}
+
+#hp{
+  display: inline-block;
+  float: right;
+  padding-top: 10px;
+
+}
+
+#description{
+  border: #FFD700 outset;
+  padding: 5px 0px 5px 5px;
+}
